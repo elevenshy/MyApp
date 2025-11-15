@@ -14,7 +14,7 @@ st.set_page_config(
 if not check_password():  
     st.stop()
 
-
+ 
 # endregion <--------- Streamlit App Configuration --------->
 
 st.title("Streamlit App")
